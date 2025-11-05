@@ -114,7 +114,7 @@ Dependabot is configured to check for updates weekly (every Monday) for:
 
 ```
 ## Author
-
+Onyeka Uzochukwu
 Created as part of DevOps Assignment 4
 
 ## License
